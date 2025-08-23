@@ -1,2 +1,2 @@
 # python-oop-notes
-Tổng hợp kiến thức OOP với Python 
+Tổng hợp ngắn gọn kiến thức OOP với Python 
